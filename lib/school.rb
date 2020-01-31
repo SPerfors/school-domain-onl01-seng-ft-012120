@@ -16,5 +16,9 @@ class School
       if a == level
         return b
       end
+    end
+  end
+  
+  
   
 end
